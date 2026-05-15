@@ -1,28 +1,32 @@
 {
   "Global": {
-    "By Type": {
-      "Sub-Normothermic Perfusion (20–34°C)": {},
-      "Warm or Normothermic Perfusion (35–37°C)": {}
+    "By Therapy Type": {
+      "Active Helmets Therapy": {},
+      "Passive Helmets Therapy": {}
     },
-    "By Organ Type": {
-      "Liver": {},
-      "Heart": {},
-      "Lung": {},
-      "Kidney": {},
-      "Others (Pancreas, Small bowel / Intestine, Composite Tissues / Limb Perfusion (emerging use cases))": {}
+    "By Clinical Indication": {
+      "Plagiocephaly": {},
+      "Brachycephaly": {},
+      "Scaphocephaly": {}
     },
-    "Application / Use Case": {
-      "Organ Preservation": {},
-      "Viability Assessment": {},
-      "Physiologic Transport": {},
-      "Reconditioning Marginal Organs": {},
-      "Others (Research Use / Protocol development)": {}
+    "By Age Group": {
+      "Infants (0–12 months)": {},
+      "Toddlers (12–24 months)": {}
+    },
+    "By Design": {
+      "Custom-Fitted Orthoses": {},
+      "Standard Helmets": {}
+    },
+    "By Purchase Mode": {
+      "Online": {},
+      "Offline": {}
     },
     "By End User": {
-      "Hospitals & Clinics": {},
-      "Specialty Clinic/Centers": {},
-      "Transplant Centers": {},
-      "Others (Research Institutes/Centers, Organ Procurement Organizations, etc.)": {}
+      "Hospitals": {},
+      "Parents / Individuals": {},
+      "Specialty Clinics / Orthotic Centers": {},
+      "Pediatric & Neurosurgery Clinics": {},
+      "Others (Academic and Research Institutes, etc.)": {}
     },
     "By Region": {
       "North America": {
